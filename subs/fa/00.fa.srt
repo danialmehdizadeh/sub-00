@@ -216,52 +216,54 @@ This is a data dump, passion
 00:02:21,480 --> 00:02:24,660
 educational project of
 everything I've learned working
-
+این دوره یه پروژه آموزشیه که از روی علاقه ساختم
 44
 00:02:24,690 --> 00:02:28,560
 in this space. And I am 100%
 certain that if you follow
-
+و سعی کردم همه چیزهای که تو طول کار کردن در این حوزه کار کردم رو توش بگنجونم
 45
 00:02:28,560 --> 00:02:31,650
 along, you'll come out the other
 side of this, armed with the
-
+شک ندارم اگه همراه من باشید پس از این دوره
 46
 00:02:31,650 --> 00:02:35,130
 knowledge to be a positive force
 in this incredible industry,
-
+مجهز به دانش لازم برای تبدیل شدن به یک نیروی تاثیر گزار در این صنعت خواهید شد
 47
 00:02:35,190 --> 00:02:38,700
 solidity and smart contract
 developers are massively in
-
+تقاضا برای دولوپر های سالیدیتی و قرارداد هوشمند بالاست
 48
 00:02:38,700 --> 00:02:43,770
 demand with an average salary of
 being around $145,000 a year,
-
+میانگین حقوقشون حدود 145 هزاردلار در ساله
+(لپمترجم - لازم به ذکر نیست که آمار مربوط به بازارکار جهانیه نه ایران)
 49
 00:02:43,980 --> 00:02:47,040
 there is massive economic
 opportunity from learning this
-
+شما با یادگیری این دوره فرصت ها اقتصادی ارزشمندی ئیدا خواهید کرد
 50
 00:02:47,040 --> 00:02:50,820
 course. And this technology has
 the ability to revolutionize
-
+این تکنلوژی این توانایی رو داره که یک انقلاب بزرگ در هرچیزی که ما هرروزه باهاشون
+در ارتباطیم ایجاد کنه
 51
 00:02:50,940 --> 00:02:54,270
 everything that we interact
 with, and you can be one of the
-
+شما میتونین با این دوره به پیشاهنگان این عصر نو
 52
 00:02:54,270 --> 00:02:58,650
 pioneers ushering in this new
 age. In our courses. We already
-
+بدل بشین.
 53
 00:02:58,650 --> 00:03:01,710
 have a track record of giving
