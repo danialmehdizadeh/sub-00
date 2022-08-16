@@ -268,72 +268,74 @@ age. In our courses. We already
 00:02:58,650 --> 00:03:01,710
 have a track record of giving
 people these educational needs
-
+ما همین الان هم رکورددار در برآورده کردن نیازهای
 54
 00:03:01,830 --> 00:03:04,950
 and sending them into their
 careers in the blockchain and
-
+آموزشی علم آموران و آماده کردنشان برای محیط شغلی
 55
 00:03:04,950 --> 00:03:08,370
 smart contract space. And we are
 going to give you all of the
-
+بلاکچین و قرارداد هوشمند هستیم. ما آماده ایم که به شما
 56
 00:03:08,370 --> 00:03:11,880
 cutting edge tools and how to
-use them including working with
-
+use them 
+به بروزترین ابزارها نجهیز کنیم  و بهتون
 57
 00:03:11,880 --> 00:03:16,830
 things like D phi NF TS Dows,
 ERC 20s upgradable, smart
-
+نحوه استفاده از dephi, 
+***** این قسمت گنگه ارجاع به ویدیو
 58
 00:03:16,830 --> 00:03:19,590
 contracts and more. We're going
 to teach you the skills
-
+قرار دادهای هوشمند و غیره رو آموزش بدیم. ما میخوایم با شما مهارت های لازم
 59
 00:03:19,590 --> 00:03:22,830
 necessary to build defy
 applications like Ave synthetics
-
+برای ساختن اپلیکیشن های defy رو یاد بدیم
 60
 00:03:22,830 --> 00:03:27,180
 and compound, billion dollar
 decentralized applications, or
-
+که بتونید نظیر ave synthetics, compund، اپلیکیشن های غیرمتمرکز با میلیون ها دلار ارزش&
 61
 00:03:27,210 --> 00:03:30,900
 massively successful NFT
 projects like crypto punks, or
-
+و ئروژه های ان اف تی فوق موفقی مثل crypto punks
 62
 00:03:30,900 --> 00:03:35,010
 board apes. Dow is like maker
 Dow or developer, Dow and any of
-
+یا board apes رو بسازید. 
+***** گنگ
 63
 00:03:35,010 --> 00:03:38,040
 the amazing things you've seen
 in the cryptocurrency world. In
-
+طی یادگیری این مطالب
 64
 00:03:38,040 --> 00:03:40,800
 learning these skills, you will
 have all these economic
-
+شما فرصت های شغلی استثنایی ای
 65
 00:03:40,800 --> 00:03:44,790
 opportunities at your fingertips
 and the ability to be a pioneer
-
+رو در مشت میگیرید و و میتونید از پرچم داران تغییر دادن اساسی نحوه ی تعامل ما
 66
 00:03:44,820 --> 00:03:48,120
 in completely changing the way
 we interact with each other. In
-
+با چیزهای دور و برمون باشید
 67
 00:03:48,120 --> 00:03:51,120
 a fundamental way. Building
